@@ -1,0 +1,7 @@
+HI I have updated this file as earlier created one was having some issues.
+Someone else added a line in origin
+<<<<<<< HEAD
+added another line in local file.
+=======
+adding another line in local master to create conflict
+>>>>>>> master
